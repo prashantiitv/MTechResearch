@@ -1,5 +1,5 @@
 # MTechResearch
-##An Efficient Spectrum Utilization Scheme Using Incremental Neural Network
+## An Efficient Spectrum Utilization Scheme Using Incremental Neural Network
 
 This repository includes codes and results of my MTech research work.
 
